@@ -1,6 +1,6 @@
 # Runtime: 51 ms, faster than 68.25% of Python3 online submissions for Final Value of Variable After Performing Operations.
 # Memory Usage: 14.3 MB, less than 48.99% of Python3 online submissions for Final Value of Variable After Performing Operations.
-# https://leetcode.com/submissions/detail/592145156/
+# https://leetcode.com/submissions/detail/592147912/
 
 class Solution:
     def finalValueAfterOperations(self, operations: List[str]) -> int:
