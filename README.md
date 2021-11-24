@@ -22,4 +22,4 @@ Solutions to LeetCode Problems
 | 1480     | Running Sum of 1d Array             | 36 ms | 14.2 MB | 88.82% | 89.96% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/1480_Running_Sum_of_1d_Array.py">Python</a>|
 | 1672     | Richest Customer Wealth                              | 56 ms | 14.2 MB | 52.34% | 61.78% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/1672_Richest_Customer_Wealth.py">Python</a>|
 | 1929     | Concatentation of Array | 119 ms | 14.7 MB | 15.60% | 22.12% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/1929_Concatentation_of_Array.py">Python</a> |
-| 2011     | Final Value of Variable After Performing Operations  | 73 ms | 14.1 MB | 16.08% | 76.55% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/2011_Final_Value_of_Variable_After_Performing_Operations.py">Python</a>|
+| 2011     | Final Value of Variable After Performing Operations  | 51 ms | 14.3 MB | 68.25% | 48.99% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/2011_Final_Value_of_Variable_After_Performing_Operations.py">Python</a>|
