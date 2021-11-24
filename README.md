@@ -23,5 +23,6 @@ Solutions to LeetCode Problems
 | 1365     | How Many Numbers Are Smaller Than the Current Number | 258 ms | 14.4 MB | 43.76% | 46.01% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number.py">Python</a>|
 | 1480     | Running Sum of 1d Array             | 36 ms | 14.2 MB | 88.82% | 89.96% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/1480_Running_Sum_of_1d_Array.py">Python</a>|
 | 1672     | Richest Customer Wealth                              | 56 ms | 14.2 MB | 52.34% | 61.78% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/1672_Richest_Customer_Wealth.py">Python</a>|
+| 1920     | Build Array from Permutation | 116 ms | 14.7 MB | 91.57% | 8.55% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/1920_Build_Array_from_Permutation.py">Python</a> |
 | 1929     | Concatentation of Array | 119 ms | 14.7 MB | 15.60% | 22.12% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/1929_Concatentation_of_Array.py">Python</a> |
 | 2011     | Final Value of Variable After Performing Operations  | 36 ms | 14.1 MB | 99.95% | 76.45% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/2011_Final_Value_of_Variable_After_Performing_Operations.py">Python</a>|
