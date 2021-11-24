@@ -19,6 +19,7 @@ Solutions to LeetCode Problems
 | 46       | Permutations | 27 ms | 14.4 MB | 99.49% | 45.75% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/0046_Permutations.py">Python</a> |
 | 47       | Permutations II | 56 ms | 14.3 MB | 86.87% | 97.40% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/0047_Permutations_II.py">Python</a> |
 | 136      | Single Number | 184 ms | 16.5 MB | 28.46% | 86.13% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/0136_Single_Number.py">Python</a> |
+| 389      | Find the Difference | 43 ms | 14.4 MB | 28.45% | 32.89% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/0389_Find_the_Difference.py">Python</a> |
 | 709       | To Lower Case | 44 ms | 14.3 MB | 15.92% | 37.04% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/0709_To_Lower_Case.py">Python</a> |
 | 1108     | Defanging an IP Address  | 44 ms | 14.3 MB | 12.40% | 36.70% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/1108_Defanging_an_IP_Address.py">Python</a> |
 | 1281     | Subtract the Product and Sum of Digits of an Integer | 52 ms | 14.4 MB | 7.72% | 9.40% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.py">Python</a>|
