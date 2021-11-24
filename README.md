@@ -24,6 +24,7 @@ Solutions to LeetCode Problems
 | 1108     | Defanging an IP Address  | 44 ms | 14.3 MB | 12.40% | 36.70% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/1108_Defanging_an_IP_Address.py">Python</a> |
 | 1281     | Subtract the Product and Sum of Digits of an Integer | 52 ms | 14.4 MB | 7.72% | 9.40% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.py">Python</a>|
 | 1365     | How Many Numbers Are Smaller Than the Current Number | 258 ms | 14.4 MB | 43.76% | 46.01% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number.py">Python</a>|
+| 1470     | Shuffle the Array | 77 ms | 14.5 MB | 21.61% | 51.45% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/1470_Shuffle_the_Array.py">Python</a> |
 | 1480     | Running Sum of 1d Array             | 36 ms | 14.2 MB | 88.82% | 89.96% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/1480_Running_Sum_of_1d_Array.py">Python</a>|
 | 1672     | Richest Customer Wealth                              | 56 ms | 14.2 MB | 52.34% | 61.78% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/1672_Richest_Customer_Wealth.py">Python</a>|
 | 1920     | Build Array from Permutation | 116 ms | 14.7 MB | 91.57% | 8.55% | <a href="https://github.com/alexanderbauer89/LeetCode/blob/main/Problems/1920_Build_Array_from_Permutation.py">Python</a> |
